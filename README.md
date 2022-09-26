@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StevenKim1105
+- 👋 Hi, I’m Steven Kim @StevenKim1105
 - 👀 I’m interested in general civil and environmental engineering
 - 🌱 I’m currently learning civil and environmental engineering in Yonsei University, Republic of Korea
 - 💞️ I’m looking to collaborate on ...
